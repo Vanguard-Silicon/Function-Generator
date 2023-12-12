@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Amplifier_Section.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Amplifier_Section.SchDoc|FileName=Buffers.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Amplifier_Section.SchDoc|FileName=Power_Supply.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Amplifier_Section.SchDoc|FileName=Saw Tooth and PWM Generator.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Amplifier_Section.SchDoc|FileName=Sine_Wave_Generator.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Amplifier_Section.SchDoc|FileName=Triangle_Generator.SchDoc|SheetNumber=5
