@@ -15,16 +15,16 @@ The following are the specifications of the function generator we designed.
 <li> Minimum load: 50Ω </li>
 </ul>
 
-Other than that the functino generator has the following features.
+Other than that the function generator has the following features.
 
 <ul>
-<li> Support four types of waves namely <b> Triangular</b>, <b>Saw Tooth</b>, <b>Pulse Width Modulated (PWM)</b>, and <b>Sinusoidal</b>.
+<li> Supports four types of waves namely <b> Triangular</b>, <b>Saw Tooth</b>, <b>Pulse Width Modulated (PWM)</b>, and <b>Sinusoidal</b> waves.
 <li> Can add a DC shift to the waveforms. </li>
 <li> Push button for directly enabling square waves (50% duty PWM). </li>
 <li> Banana sockets for easy output of the generated signal. </li>
 </ul>
 
-Initial design and simulations were done using LTSpice, and Multisim softwares and then came to the <a href="Images/Breadboard Implementation.jpg">breadboard implementation</a>.
+Initial design and simulations were done using LTspice, and NI Multisim softwares and then came to the <a href="Images/Breadboard Implementation.jpg">breadboard implementation</a>.
 
 After finalizing the design, the <a href="PCB Design/PCB_Final_Design.jpg">PCB</a> was carefully designed using Altium Designer. The <a href="Enclosure Design/Enclosure Final Design.jpg">enclosure</a> was initially sketched using Blender and then modeled using SOLIDWORKS.
 
